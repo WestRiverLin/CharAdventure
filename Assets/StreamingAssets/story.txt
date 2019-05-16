@@ -1,4 +1,25 @@
-﻿测试文本测试文本测试文本1
-测试文本\n测试文本2
-@cmd:image@head
-测试文本测试文本测试文本3
+﻿故事发生在很久很久以前……
+@cmd:background@egypt
+公元前XXX年，古埃及某处
+@cmd:avatar@odipus
+快看，前边有一只人面狮身的怪兽！
+它接下来肯定要问我问题，我得好好准备一下……
+啊，它来了！
+@cmd:avatar@sphinx
+是你啊，俄狄浦斯，让我问你一个问题吧。
+早晨三条腿，中午四条腿，晚上两条腿\n这是什么？@cmd:option@疯掉的猪:dead@顽皮的狗:dead@人:human@瞎扯淡呢！:alive
+#dead
+你是在瞎扯淡吧！（说完斯芬克斯扑向了你）
+@cmd:avatar@skull
+你被斯芬克斯吃掉了 （坏结局）@cmd:pause
+#human
+什么！？你竟然答对了？
+额，不对！你答错了吧哈哈！注意听题哦！
+（说完斯芬克斯扑向了你）
+@cmd:avatar@skull
+你被斯芬克斯吃掉了 （坏结局）@cmd:pause
+#alive
+呜呜呜，我竟然说错了题目！太羞愧了，我要自尽！
+（斯芬克斯跳崖而死）
+@cmd:avatar@odipus
+你活下来了 （好结局）@cmd:pause
