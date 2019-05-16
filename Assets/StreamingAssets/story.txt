@@ -7,7 +7,7 @@
 啊，它来了！
 @cmd:avatar@sphinx
 是你啊，俄狄浦斯，让我问你一个问题吧。
-早晨三条腿，中午四条腿，晚上两条腿\n这是什么？@cmd:option@疯掉的猪:dead@顽皮的狗:dead@人:human@瞎扯淡呢！:alive
+早晨三条腿，中午四条腿，晚上两条腿，这是什么？@cmd:option@疯掉的猪:dead@顽皮的狗:dead@人:human@瞎扯淡呢！:alive
 #dead
 你是在瞎扯淡吧！（说完斯芬克斯扑向了你）
 @cmd:avatar@skull
